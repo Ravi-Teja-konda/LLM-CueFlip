@@ -1,0 +1,9 @@
+# large data & intermediate outputs
+*.parquet
+*.jsonl
+data/raw/
+results/runs/
+# Python / Jupyter cruft
+__pycache__/
+.ipynb_checkpoints/
+.env
