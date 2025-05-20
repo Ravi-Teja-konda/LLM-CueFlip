@@ -10,7 +10,7 @@ This repository implements a pipeline to evaluate how different social-cue promp
 
 ## 🎞️ Results Visualization
 
-Below are example visualizations of cue uptake vs. confidence across cue families. Add your own PNGs here as needed.
+Below are example visualizations of cue uptake and confidence across cue families.
 
 ### Google (gemini-2.5-pro-preview-05-06)
 ![Uptake vs Confidence Grouped](results/figures/uptake_and_confidence_grouped_gemini_2_5_pro.png)
