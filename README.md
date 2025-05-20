@@ -178,7 +178,7 @@ If you find this project useful, consider starring it on GitHub to help others d
 
 ## 📝 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the Apache License 2.0.
 
 ---
 
