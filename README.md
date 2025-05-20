@@ -67,7 +67,7 @@ cue-taxonomy-llm/
 1. **Clone** this repository:
 
    ```bash
-   git clone <your-repo-url>/cue-taxonomy-llm.git
+   git clone https://github.com/Ravi-Teja-konda/cue-taxonomy-llm.git
    cd cue-taxonomy-llm
    ```
 2. **Create** and activate a Python virtual environment (recommended):
