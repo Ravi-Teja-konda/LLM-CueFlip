@@ -1,0 +1,5 @@
+raw_mmlu_dir: data/raw/hle
+subset_tsv: data/interim/hle_subset.tsv
+results_csv: results/runs/cue_taxonomy_runs.csv
+summary_csv: results/tables/cue_taxonomy_summary.csv
+figures_dir: results/figures
